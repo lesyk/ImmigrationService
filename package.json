@@ -1,0 +1,11 @@
+{
+  "name": "ImmigrationService",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-testrpc": "^3.0.0",
+    "solc": "^0.4.4",
+    "truffle": "^2.1.1"
+  }
+}

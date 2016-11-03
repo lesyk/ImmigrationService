@@ -3,8 +3,9 @@
 
 My first Ethereum-based application.
 
-Idea: use Ethereum smart contracts for managing immigration service visa review system.
+Idea: use Ethereum smart contracts for managing immigration service visa review process.
 User stories:
+
 1. As a visa applicant, you get link for visa application form, which is also a contract. 
 You feel it and wait for other party to review it. Also, you can check the status of the form.
 

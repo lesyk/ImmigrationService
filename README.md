@@ -18,7 +18,7 @@ You feel it and wait for other party to review it. Also, you can check the statu
 
 2. Run `testrpc` in one terminal window to start Ethereum node.
 
-3. Run `truffle console` in another terminal window to start development framework.
+3. Run `truffle console` in another terminal window to start development framework, where you can interact with application.
 
 ####Test
 ```

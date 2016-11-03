@@ -29,4 +29,10 @@ var bc = BorderControl.deployed()
 bc.personHasVisa(va.address, "test")
 ```
 
+####Recommend to read 
+[The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://medium.com/zeppelin-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05#.ab4mtjud7)
+
+[A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
+
 Developed during #TriforkHackerDays, thx Trifork for opportunity and awesome mindset.
+
